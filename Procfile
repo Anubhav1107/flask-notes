@@ -1,1 +1,1 @@
-gunicorn --bind 127.0.0.1:5000 main:app
+web:gunicorn --chdir main:app
