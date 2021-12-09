@@ -9,3 +9,5 @@ Every users have different notes and thus others can't see or delete others note
 
 It has an authentication feature + database using sqlalchemy.
 
+![alt text](https://github.com/Anubhav1107/flask-notes/blob/main/photos/Screenshot%20(21).png?raw=true)
+
